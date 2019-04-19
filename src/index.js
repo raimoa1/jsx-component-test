@@ -17,7 +17,7 @@ const App = () => {
 
     const buttonText = {text: 'Click me'};
     const labelText = 'Enter name:';
-    const style = {backgroundColor:'green',color:'white'}
+    const style = {backgroundColor:'green',color:'white',borderRadius:'10px'}
 
     return (
         <div>
